@@ -28,8 +28,8 @@ Make sure you have the following installed on your machine:
 **Clone this Project**
 
 ```bash
-git clone https://github.com/CodeScrapper1/car-rental-app.git
-cd car-rental-app
+git clone https://github.com/DaftFunked/Car-Rental.git
+cd Car-Rental
 ```
 
 **Installation**
